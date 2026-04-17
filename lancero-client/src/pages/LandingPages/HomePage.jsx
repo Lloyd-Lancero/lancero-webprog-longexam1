@@ -85,7 +85,7 @@ const HomePage = () => {
 
                 <div className="grid gap-4 md:grid-cols-3">
                     <article className="rounded-3xl bg-[#34418f] p-4">
-                        <div className="flex aspect-4/3 items-center justify-center rounded-[1.25rem] bg-zinc-200">
+                        <div className="overflow-hidden items-center justify-center rounded-[1.25rem] bg-zinc-200">
                             <img 
                             src={lace}
                             alt=" "
@@ -100,7 +100,7 @@ const HomePage = () => {
                     </article>
 
                     <article className="rounded-3xl bg-[#34418f] p-4">
-                        <div className="flex aspect-4/3 items-center justify-center rounded-[1.25rem] bg-zinc-200">
+                        <div className="overflow-hidden items-center justify-center rounded-[1.25rem] bg-zinc-200">
                             <img 
                             src={review}
                             alt=" "
@@ -115,7 +115,7 @@ const HomePage = () => {
                     </article>
 
                     <article className="rounded-3xl bg-[#34418f] p-4">
-                        <div className="flex aspect-4/3 items-center justify-center rounded-[1.25rem] bg-zinc-200">
+                        <div className="overflow-hidden items-center justify-center rounded-[1.25rem] bg-zinc-200">
                             <img 
                             src={shirt}
                             alt=" "
