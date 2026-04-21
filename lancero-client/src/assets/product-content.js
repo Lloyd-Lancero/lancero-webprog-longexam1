@@ -36,7 +36,7 @@ const products = [
       'The matte finish keeps the look simple while the lid helps reduce spills in your bag.',
       'Fits most side pockets and keeps drinks ready between classes.',
     ],
-    img: '/assets/img/tumbler.jpg',
+    img: '/assets/img/jug.jpg',
   },
   {
     name: 'wireless-study-lamp',

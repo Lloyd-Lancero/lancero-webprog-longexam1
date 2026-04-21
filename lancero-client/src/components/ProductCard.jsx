@@ -2,7 +2,7 @@ import Button from './Button';
 
 const ProductCard = ({ product, index }) => {
   return (
-    <article className="rounded-3xl bg-[#34418f] p-4">
+    <article className="drop-shadow-xl rounded-3xl bg-[#34418f] p-4">
       <div className="flex aspect-4/3 items-center justify-center rounded-[1.25rem] bg-zinc-200 overflow-hidden">
         <img 
         src={product.img}

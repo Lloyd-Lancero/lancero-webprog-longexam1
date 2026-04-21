@@ -42,34 +42,34 @@ const HomePage = () => {
             <section className="bg-zinc-50 drop-shadow-md px-4 py-6 sm:px-6 sm:py-8 lg:px-8">
                 <div className="mb-6">
                     <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-zinc-500">
-                        Store Overview
+                        Store Highlights
                     </p>
-                    <h2 className="mt-2 text-2xl font-semibold text-zinc-900">Quick shopping blocks</h2>
+                    <h2 className="mt-2 text-2xl font-semibold text-zinc-900">Quick and Easy Shopping!</h2>
                 </div>
 
                 <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
                     <div className="rounded-3xl bg-yellow-400 p-5">
-                        <p className="text-2xl font-bold text-zinc-50">08</p>
-                        <p className="mt-2 text-[11px] font-bold uppercase tracking-[0.24em] text-zinc-100">
-                            Products
+                        <p className="text-xl font-bold text-blue-900">Convenient Shopping Hub</p>
+                        <p className="mt-2 text-[11px] tracking-[0.24em] text-zinc-900">
+                            A campus merch site lets users quickly buy school-branded items.
                         </p>
                     </div>
                     <div className="rounded-3xl bg-yellow-400 p-5">
-                        <p className="text-2xl font-bold text-zinc-50">06</p>
-                        <p className="mt-2 text-[11px] font-bold uppercase tracking-[0.24em] text-zinc-100">
-                            Categories
+                        <p className="text-xl font-bold text-blue-900">Showcasing School Pride</p>
+                        <p className="mt-2 text-[11px] tracking-[0.24em] text-zinc-900">
+                            Highlights products that represent school pride.
                         </p>
                     </div>
                     <div className="rounded-3xl bg-yellow-400 p-5">
-                        <p className="text-2xl font-bold text-zinc-50">24</p>
-                        <p className="mt-2 text-[11px] font-bold uppercase tracking-[0.24em] text-zinc-100">
-                            Orders
+                        <p className="text-xl font-bold text-blue-900">Centralized Merchandise Access</p>
+                        <p className="mt-2 text-[11px] tracking-[0.24em] text-zinc-900">
+                            Easily browse and order official merchandise.
                         </p>
                     </div>
                     <div className="rounded-3xl bg-yellow-400 p-5">
-                        <p className="text-2xl font-bold text-zinc-50">03</p>
-                        <p className="mt-2 text-[11px] font-bold uppercase tracking-[0.24em] text-zinc-100">
-                            Pickup Slots
+                        <p className="text-xl font-bold text-blue-900">Seamless Online Experience</p>
+                        <p className="mt-2 text-[11px] tracking-[0.24em] text-zinc-900">
+                            A smooth and simple shopping experience anytime.
                         </p>
                     </div>
                 </div>

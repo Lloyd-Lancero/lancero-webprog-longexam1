@@ -25,7 +25,7 @@ const ProductListPage = () => {
           <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-zinc-500">
             Featured Products
           </p>
-          <h2 className="mt-2 text-2xl font-semibold text-zinc-900">Product card grid</h2>
+          <h2 className="mt-2 text-2xl font-semibold text-zinc-900">Products</h2>
         </div>
 
         <ProductList products={products} />
